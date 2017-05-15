@@ -1,0 +1,11 @@
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\bin\Debug\TelefonBok.exe.config
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\bin\Debug\TelefonBok.exe
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\bin\Debug\TelefonBok.pdb
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\bin\Debug\Mittbibliotek.dll
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\bin\Debug\Mittbibliotek.pdb
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\obj\Debug\TelefonBok.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\obj\Debug\TelefonBok.Form1.resources
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\obj\Debug\TelefonBok.Properties.Resources.resources
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\obj\Debug\TelefonBok.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\obj\Debug\TelefonBok.exe
+C:\Users\Daniel\Documents\GitHub\TelefonBok\TelefonBok\obj\Debug\TelefonBok.pdb
